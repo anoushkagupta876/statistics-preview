@@ -154,10 +154,11 @@ border-radius: 10px 10px 0 0;
 
 @media (min-width: 600px){
   .container{
-    width: 580px;
-   
+    
+    width: 60%;
   }
 }
+
 
 @media (min-width: 912px) {
   
