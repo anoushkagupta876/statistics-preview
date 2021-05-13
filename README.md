@@ -2,7 +2,7 @@
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Preview: (./design/desktop-preview.jpg)
+Preview:![Preview](./design/desktop-preview.jpg)
 ## Table of contents
 
 - [Overview](#overview)
@@ -28,10 +28,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![ScreenShot](./screenshot.jpg)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://anoushkagupta876.github.io/statistics-preview/)
+- Live Site URL: [anoushkagupta876.github.io/statistics-preview/](https://anoushkagupta876.github.io/statistics-preview/)
 
 ### Built with
 
@@ -68,11 +68,11 @@ border-radius: 10px 10px 0 0;
 I would definitely like to explore mix-blend-mode further. Though I made this responsive without Bootstrap and was pretty quick, but I would definitely like to try a Bootstrap version. 
 
 ### Useful resources
-- [Example resource 1](https://www.example.com) - This is an website  which I refer back and forth for syntax and properties. I'd recommend it to everyone - beginners and professionals.
+- [MDN](https://developer.mozilla.org/en-US/) - This is an website  which I refer back and forth for syntax and properties. I'd recommend it to everyone - beginners and professionals.
 
 ## Author
 
-- Website - [Add your name here](https://anoushkagupta876.github.io/Anoushka/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/anoushkagupta876)
+- Website - [Anoushka Gupta](https://anoushkagupta876.github.io/Anoushka/)
+- Frontend Mentor - [@anoushkagupta876](https://www.frontendmentor.io/profile/anoushkagupta876)
 
 
