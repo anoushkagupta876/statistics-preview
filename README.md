@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![ScreenShot](./screenshot.jpg)
+Screenshot: ![ScreenShot](screenshot.jpg)
 
 ### Links
 - Live Site URL: [anoushkagupta876.github.io/statistics-preview/](https://anoushkagupta876.github.io/statistics-preview/)
